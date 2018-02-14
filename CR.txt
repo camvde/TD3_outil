@@ -1,0 +1,9 @@
+Exercice 1:
+Quelle est la commande qui recuperer sur machine les fichiers d'un git :
+	- pull
+	- push
+	- add
+	- status
+	- commit
+	
+Exercice 2:
